@@ -28,6 +28,6 @@ public class Hero {
 	}
 
 	public void attack() {
-
+		System.out.println("test");
 	}
 }
